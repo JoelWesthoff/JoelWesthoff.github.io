@@ -1,3 +1,5 @@
 theme: minima
 title: "Curso de Python"
 description: "Documentación curso de Python"
+baseurl: ""
+url: "https://joelwesthoff.github.io"

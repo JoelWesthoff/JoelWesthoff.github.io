@@ -39,7 +39,7 @@
                         <a class="nav-link" href="/">Inicio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/temario/1-introduccion.html">Lecciones</a>
+                        <a class="nav-link" href="{{ site.baseurl }}/temario/1-fundamentos.html">Lecciones</a>
                     </li>
                 </ul>
             </div>
@@ -50,23 +50,22 @@
     <div class="container-fluid">
         <br>
         <div class="row">
-            <!-- Menú lateral solo para la Introducción y sus subtemas -->
-            {% if "Fundamentos y Sintaxis de Python" in page.title or 
-                  page.title in ["Introducción a la Sintaxis de Python y PEP 8", "Tipos de Datos Avanzados", "Operadores Avanzados", "Control de Flujo"] %}
+            <!-- Menú lateral para el módulo 1 -->
+            {% if page.title == "Fundamentos y Sintaxis de Python" %}
             <nav class="col-md-3 col-lg-2 d-md-block bg-light sidebar">
                 <div class="position-sticky">
                     <ul class="nav flex-column">
                         <li class="nav-item">
-                            <a class="nav-link" href="/temario/sintaxis-pep8.html">Sintaxis y PEP 8</a>
+                            <a class="nav-link" href="{{ site.baseurl }}/temario/sintaxis-pep8.html">Introducción a la Sintaxis de Python y PEP 8 (estándares de estilo)</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/temario/tipos-datos-avanzados.html">Tipos de Datos Avanzados</a>
+                            <a class="nav-link" href="{{ site.baseurl }}/temario/tipos-datos-avanzados.html">Tipos de datos avanzados: diferencias en mutabilidad, uso de listas, tuplas, diccionarios y sets</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/temario/operadores-avanzados.html">Operadores Avanzados</a>
+                            <a class="nav-link" href="{{ site.baseurl }}/temario/operadores-avanzados.html">Operadores avanzados: operadores de Python exclusivos como is y in, y operadores de comprensión</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/temario/control-flujo.html">Control de Flujo</a>
+                            <a class="nav-link" href="{{ site.baseurl }}/temario/control-flujo.html">Control de flujo y estructuras de control: repaso rápido, con foco en las comprensiones de listas y diccionarios</a>
                         </li>
                     </ul>
                 </div>
