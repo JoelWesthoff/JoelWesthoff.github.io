@@ -9,10 +9,10 @@ title: "Fundamentos y Sintaxis de Python"
 
 ## Temario
 
-- [Introducción a la Sintaxis de Python y PEP 8](sintaxis-pep8.html)
-- [Tipos de Datos Avanzados y Mutabilidad](tipos-datos-avanzados.html)
-- [Operadores Avanzados](operadores-avanzados.html)
-- [Control de Flujo y Estructuras de Control](control-flujo.html)
+- [Introducción a la Sintaxis de Python y PEP 8]({{ site.baseurl }}/sintaxis-pep8.html)
+- [Tipos de Datos Avanzados y Mutabilidad]({{ site.baseurl }}/tipos-datos-avanzados.html)
+- [Operadores Avanzados]({{ site.baseurl }}/operadores-avanzados.html)
+- [Control de Flujo y Estructuras de Control]({{ site.baseurl }}/control-flujo.html)
 
 ### Contenido Detallado
 
