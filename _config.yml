@@ -1,5 +1,5 @@
-theme: minima
 title: "Curso de Python"
-description: "Documentación curso de Python"
-baseurl: ""
+description: "Documentación del curso de Python"
 url: "https://joelwesthoff.github.io"
+baseurl: "/temario"
+theme: minima
