@@ -1,28 +1,24 @@
 ---
 layout: custom
-title: "Index"
+title: "Índice del Curso de Python"
 ---
 
-# Curso Completo de Python
+# Índice del Curso de Python
 
-Bienvenido a la documentación del curso completo de Python. Aquí encontrarás los temas que cubriremos en cada lección.
-
-## Índice
-
-1. [Fundamentos y Sintaxis de Python](temario/1-introduccion.md)
-2. [Funciones y módulos en profundidad](temario/2-funciones-modulos.md)
-3. [Manejo de excepciones y gestión de errores](temario/3-excepciones-errores.md)
-4. [Programación Orientada a Objetos (POO)](temario/4-poo.md)
-5. [Programación funcional y herramientas de Python](temario/5-programacion-funcional.md)
-6. [Manipulación y gestión de archivos](temario/6-archivos.md)
-7. [Desarrollo web básico y avanzado](temario/7-desarrollo-web.md)
-8. [Automatización de tareas](temario/8-automatizacion.md)
-9. [Ciencia de datos y manipulación de grandes volúmenes de datos](temario/9-ciencia-datos.md)
-10. [Buenas prácticas y patrones de diseño](temario/10-buenas-practicas.md)
+1. [Fundamentos y Sintaxis de Python](temario/1-fundamentos.html)
+2. [Funciones y módulos en profundidad](temario/2-funciones-modulos.html)
+3. [Manejo de excepciones y gestión de errores](temario/3-excepciones-errores.html)
+4. [Programación Orientada a Objetos (POO)](temario/4-poo.html)
+5. [Programación funcional y herramientas de Python](temario/5-programacion-funcional.html)
+6. [Manipulación y gestión de archivos](temario/6-archivos.html)
+7. [Desarrollo web básico y avanzado](temario/7-desarrollo-web.html)
+8. [Automatización de tareas](temario/8-automatizacion.html)
+9. [Ciencia de datos y manipulación de grandes volúmenes de datos](temario/9-ciencia-datos.html)
+10. [Buenas prácticas y patrones de diseño](temario/10-buenas-practicas.html)
 
 ---
 
 **Proyecto Final: Aplicación Completa**
 Tiempo estimado: 4-5 semanas
 
-Desarrollo de una aplicación completa con integración de varios temas del curso, incluyendo manipulación de datos, desarrollo web y machine learning.  
+Desarrollo de una aplicación completa con integración de varios temas del curso, incluyendo manipulación de datos, desarrollo web y machine learning.
