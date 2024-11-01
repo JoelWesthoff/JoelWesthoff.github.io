@@ -1,3 +1,8 @@
+---
+layout: custom
+title: "Index"
+---
+
 # Curso Completo de Python
 
 Bienvenido a la documentación del curso completo de Python. Aquí encontrarás los temas que cubriremos en cada lección.
