@@ -9,7 +9,7 @@ Bienvenido a la documentación del curso completo de Python. Aquí encontrarás 
 
 ## Índice
 
-1. [Fundamentos y Sintaxis de Python](lecciones/leccion1.md)
+1. [Fundamentos y Sintaxis de Python](temario/1-introduccion.md)
 2. [Funciones y módulos en profundidad](lecciones/leccion2.md)
 3. [Manejo de excepciones y gestión de errores](lecciones/leccion3.md)
 4. [Programación Orientada a Objetos (POO)](lecciones/leccion4.md)
