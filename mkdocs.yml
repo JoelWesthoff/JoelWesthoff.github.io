@@ -1,0 +1,49 @@
+site_name: Curso Completo de Python
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
+  - Fundamentos y Sintaxis de Python:
+      - Introducción a la sintaxis y PEP 8: 01_fundamentos_sintaxis/introduccion_sintaxis.md
+      - Tipos de datos avanzados: 01_fundamentos_sintaxis/tipos_datos.md
+      - Operadores avanzados: 01_fundamentos_sintaxis/operadores.md
+      - Control de flujo y estructuras de control: 01_fundamentos_sintaxis/control_flujo.md
+  - Funciones y Módulos en Profundidad:
+      - Funciones avanzadas: 02_funciones_modulos/funciones_avanzadas.md
+      - Módulos y paquetes: 02_funciones_modulos/modulos_paquetes.md
+      - Manipulación de funciones: 02_funciones_modulos/manipulacion_funciones.md
+  - Manejo de Excepciones y Gestión de Errores:
+      - Manejo avanzado de excepciones: 03_manejo_excepciones/manejo_excepciones.md
+      - Excepciones personalizadas: 03_manejo_excepciones/excepciones_personalizadas.md
+      - Manejo de contexto: 03_manejo_excepciones/manejo_contexto.md
+  - Programación Orientada a Objetos:
+      - Clases y objetos en Python: 04_poo/clases_objetos.md
+      - Herencia y polimorfismo avanzados: 04_poo/herencia_polimorfismo.md
+      - Métodos mágicos y sobrecarga de operadores: 04_poo/metodos_magicos.md
+      - POO avanzada: 04_poo/poo_avanzada.md
+  - Programación Funcional y Herramientas de Python:
+      - Comprehensions avanzadas: 05_programacion_funcional/comprehensions.md
+      - Iteradores y generadores: 05_programacion_funcional/iteradores_generadores.md
+      - Funciones como objetos de primera clase: 05_programacion_funcional/funciones_como_objetos.md
+  - Manipulación y Gestión de Archivos:
+      - Lectura y escritura de archivos: 06_gestion_archivos/lectura_escritura.md
+      - Manejo de archivos CSV, JSON y XML: 06_gestion_archivos/archivos_csv_json_xml.md
+      - Manipulación avanzada: 06_gestion_archivos/manipulacion_externa.md
+  - Desarrollo Web Básico y Avanzado:
+      - Framework Flask: 07_desarrollo_web/flask.md
+      - Framework Django: 07_desarrollo_web/django.md
+      - Despliegue y pruebas: 07_desarrollo_web/despliegue_pruebas.md
+  - Automatización de Tareas:
+      - Automatización básica: 08_automatizacion/tareas_basicas.md
+      - Web Scraping: 08_automatizacion/web_scraping.md
+      - Automatización con APIs: 08_automatizacion/apis.md
+  - Ciencia de Datos y Manipulación de Datos:
+      - Numpy y Pandas: 09_ciencia_datos/numpy_pandas.md
+      - Visualización de datos: 09_ciencia_datos/visualizacion.md
+      - Scikit-learn y modelos básicos: 09_ciencia_datos/scikit_learn.md
+  - Buenas Prácticas y Patrones de Diseño:
+      - Testing avanzado: 10_buenas_practicas/testing_avanzado.md
+      - Patrones de diseño en Python: 10_buenas_practicas/patrones_diseno.md
+      - Buenas prácticas y optimización de código: 10_buenas_practicas/optimizacion_codigo.md
+  - Proyecto Final: proyecto_final.md
